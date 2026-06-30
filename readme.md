@@ -1,95 +1,95 @@
-# RobocupJunior Soccer 2025 Salvador TDP Showcase
-Listing Team Description Papers (TDPs) submitted by Junior Soccer Teams for the 2025 International Competition in Salvador, Brazil.
+# RoboCupJunior Soccer 2026 TDP Showcase
+Listing Team Description Papers (TDPs) submitted by RoboCupJunior Soccer teams for the 2026 International Competition.
 
-
-## Lightweight League
-- AIR   🥉 Individual Team 3rd
-  - [TDP](md_out/AIR.md) / [Poster](posters/LWL/AIR.pdf)
-- Apex
-  - [TDP](md_out/Apex.md) / [Poster](posters/LWL/Apex.pdf)
-- AutoBots
-  - [TDP](md_out/Autobots.md) / [Poster](posters/LWL/Autobots.pdf)
-- BullBots
-  - [TDP](md_out/BULLBOTS.md) / [Poster](posters/LWL/BullBots.pdf)
-- Crestwood
-  - [TDP](md_out/Crestwood%20Lions.md) / [Poster](posters/LWL/Crestwood%20Lions.jpeg)
-- ETC autoPrikratki
-  - [TDP](md_out/ETC%20autoPrikratki.md) / [Poster](posters/LWL/ETC%20autoPrikatkri.pdf)
-- Hyperion   🗺 SuperTeam 1st Place
-  - [TDP](md_out/Hyperion.md) / [Poster](posters/LWL/Hyperion.pdf)
-- Ikaro
-  - [TDP](md_out/IKARO.md) / [Poster](posters/LWL/Ikaro.pdf)
-- LARES
-  - [TDP](md_out/LARES.md)
-- Lovbot Dynamics
-  - [TDP](md_out/Lovbot%20Dynamics.md) / [Poster](posters/LWL/Lovbot%20Dynamics.pdf)
-- Lovbot Legends   🏅 Individual Team 1st Place
-  - [TDP](md_out/Lovbot%20Legends.md) / [Poster](posters/LWL/Lovbot%20Legends.pdf)
-- Mathimazierer
-  - [TDP](md_out/Mathimazierer.md) / [Poster](posters/LWL/Mathimazierer.PNG)
-- Munako Aegis   🤝 Community Award, 🥈 Individual Team 2nd Place, 🗺 SuperTeam 1st Place
-  - [TDP](md_out/Munako%20Aegis.md) / [Poster](posters/LWL/Munako%20Aegis.pdf)
-- Mushrooms
-  - [TDP](md_out/Mushrooms.md) / [Poster](posters/LWL/Muishrooms.pdf)
+## IR League
+- AIR
+  - [TDP](md_out/AIR.md)
+- ARK
+  - [TDP](md_out/ARK.md)
+- BurnerBALL
+  - [TDP](md_out/BurnerBALL.md)
+- Dollby
+  - [TDP](md_out/Dollby.md)
+- ETC Varaždin
+  - [TDP](md_out/ETC%20Vara%C5%BEdin.md)
+- Gcraud Shuffle
+  - [TDP](md_out/Gcraud%20Shuffle.md)
+- Hyperion
+  - [TDP](md_out/Hyperion.md)
+- Kavosh Soccer
+  - [TDP](md_out/Kavosh%20Soccer.md)
+- Lovbot Athena
+  - [TDP](md_out/Lovbot%20Athena.md)
+- Neighbor
+  - [TDP](md_out/Neighbor.md)
+- PLAY ONE
+  - [TDP](md_out/PLAY%20ONE.md)
+- RC-UANL(AEPEX)
+  - [TDP](md_out/RC-UANL_AEPEX_.md)
+- Righteousness
+  - [TDP](md_out/Righteousness.md)
+- RoboDanesh
+  - [TDP](md_out/RoboDanesh.md)
 - RoboNYC
-  - [TDP](md_out/RoboNYC.md) / [Poster](posters/LWL/RoboNYC.pdf)
-- Roboticus   🗺 SuperTeam 1st Place
-  - [TDP](md_out/Roboticus.md) / [Poster](posters/LWL/Roboticus.pdf)
-- TAM-EUROPE TSC-FootBot
-  - [TDP](md_out/TAM-EUROPE%20TSC-FootBot.md) / [Poster](posters/LWL/TAM-EUROPE%20TSC%20FootBot.png)
-- UAE_SL_1
-  - [TDP](md_out/UAE_SL_1.md) / [Poster](posters/LWL/UAE_SL_1%20-%20Team%20Rash.pdf)
-- UGAMM-Soccer
-  - [TDP](md_out/UGAMM-SOCCER.md) / [Poster](posters/LWL/UGAMM-SOCCER.pdf)
+  - [TDP](md_out/RoboNYC.md)
+- Roboticus
+  - [TDP](md_out/Roboticus.md)
+- SESI Robotics School
+  - [TDP](md_out/SESI%20Robotics%20School.md)
+- Team fix
+  - [TDP](md_out/Team%20fix.md)
+- Team goggles
+  - [TDP](md_out/Team%20goggles.md)
+- TSC FootBot
+  - [TDP](md_out/TSC%20FootBot.md)
 - VVS Ballers
-  - [TDP](md_out/VVS%20Ballers.md) / [Poster](posters/LWL/VVS%20Ballers.png)
-- chaBots Phoenix
-  - [TDP](md_out/chaBots%20Phoenix.md) / [Poster](posters/LWL/chaBots%20Phoenix.pdf)
+  - [TDP](md_out/VVS%20Ballers.md)
+- XLC-WYLDFYRE
+  - [TDP](md_out/XLC-WYLDFYRE.md)
 
-- Café com Byte Voyager
-  - [Poster](posters/LWL/Café%20com%20Byte%20Voyager.pdf)
-
-- SESI Biotech
-  - [TDP](md_out/Biotech.md) / [Poster](posters/LWL/SESI%20Biotech.png)
-
-## Open League
+## Vision League
 - Aperture Open
-  - [TDP](md_out/Aperture%20Open.md) / [Poster](posters/OpenLeague/Aperture%20Open.pdf)
-- EMM-Soccer   🗺 SuperTeam 1st Place
-  - [TDP](md_out/EMM-Soccer.md) / [Poster](posters/OpenLeague/EMM%20Soccer.pdf)
-- Gloves
-  - [TDP](md_out/Gloves.md) / [Poster](posters/OpenLeague/Gloves.png)
-- HIKARI   🤝 Community Award
-  - [TDP](md_out/HIKARI.md) / [Poster](posters/OpenLeague/Hikari.pdf)
-- LNX Robots   🥈 Individual Team 2nd Place
-  - [TDP](md_out/LNX%20Robots.md) / [Poster](posters/OpenLeague/LNX%20Robots.pdf)
-- Lovbot Altrons
-  - [TDP](md_out/Lovbot%20Altrons.md) / [Poster](posters/OpenLeague/Lovbot%20Altrons.pdf)
-- Lovbot Thunder
-  - [TDP](md_out/Lovbot%20Thunder.md) / [Poster](posters/OpenLeague/Lovbot%20Thunder.png)
+  - [TDP](md_out/Aperture%20Open.md)
+- Bodensee Adler
+  - [TDP](md_out/Bodensee%20Adler.md)
+- Bohlebots Atlantis
+  - [TDP](md_out/Bohlebots%20Atlantis.md)
+- CMOS
+  - [TDP](md_out/CMOS.md)
+- Elite
+  - [TDP](md_out/Elite.md)
+- EMM-Soccer
+  - [TDP](md_out/EMM-Soccer.md)
+- K-ROMA
+  - [TDP](md_out/K-ROMA.md)
+- Lares
+  - [TDP](md_out/Lares.md)
+- LNX Robots
+  - [TDP](md_out/LNX%20Robots.md)
+- LovBot Ares
+  - [TDP](md_out/LovBot%20Ares.md)
+- Lovbot X Mybot Nemesis
+  - [TDP](md_out/Lovbot%20X%20Mybot%20Nemesis.md)
+- Low Baterry Messi
+  - [TDP](md_out/Low%20Baterry%20Messi.md)
 - MARVEL
-  - [TDP](md_out/MARVEL.md) / [Poster](posters/OpenLeague/MARVEL.JPG)
-- MIDAS RBL
-  - [TDP](md_out/MIDAS%20RBL.md) / [Poster](posters/OpenLeague/MIDAS%20RBL.jpg)
-- MegaHertz
-  - [TDP](md_out/MegaHertz.md) / [Poster](posters/OpenLeague/MegaHertz.png)
+  - [TDP](md_out/MARVEL.md)
+- Noa.h
+  - [TDP](md_out/Noa.h.md)
+- Open Legends
+  - [TDP](md_out/Open%20Legends.md)
 - Reset
-  - [TDP](md_out/Reset.md) / [Poster](posters/OpenLeague/Reset.png)
+  - [TDP](md_out/Reset.md)
+- robotecno 85
+  - [TDP](md_out/robotecno%2085.md)
 - Sadr United
-  - [TDP](md_out/Sadr%20United.md) / [Poster](posters/OpenLeague/Sadr%20United.jpg)
-- TPA-iPES   🗺 SuperTeam 1st Place
-  - [TDP](md_out/TPA-iPES.md) / [Poster](posters/OpenLeague/TPA-iPES.pdf)
-- Tachyon
-  - [TDP](md_out/Tachyon.md) / [Poster](posters/OpenLeague/Tachyon.pdf)
-- Team Elite
-  - [TDP](md_out/Team%20Elite.md) / [Poster](posters/OpenLeague/Elite.pdf)
-- Team Faabs   🥉 Individual Team 3rd Place
-  - [TDP](md_out/Team%20Faabs.md) / [Poster](posters/OpenLeague/Faabs.pdf)
-- Milenium Xelerator
-  - [TDP](md_out/Xelerator.md) / [Poster](posters/OpenLeague/Milenium%20Xelerator.pdf)
-- ZG 24 Robotics   🏅 Individual Team 1st Place, 🗺 SuperTeam 1st Place
-  - [TDP](md_out/ZG24Robotics.md) / [Poster](posters/OpenLeague/ZG24%20Robotics.pdf)
+  - [TDP](md_out/Sadr%20United.md)
+- TPA Thailand Soccer
+  - [TDP](md_out/TPA%20Thailand%20Soccer.md)
+- TS
+  - [TDP](md_out/TS.md)
+- ZG-AP Robotics
+  - [TDP](md_out/ZG-AP%20Robotics.md)
 
-
-## Need fix?
-Please make a Pull Request, or raise a issue on Issue tab.
+## Need a fix?
+Please open a Pull Request, or raise an issue on the Issues tab.
