@@ -2,7 +2,7 @@
 
 *Tijdstempel*
 
-26-6-2026 20:40:29
+26-6-2026 20:39:45
 
 ## Email Address
 
@@ -54,7 +54,7 @@ N/A
 
 Note: This is not mandatory and will be published along with your TDP if you choose to upload something*
 
-![](images/1-CPf0pKRPPkcW3Z-_MuZL-RVKN4kp_vd.jpg)
+![](images/18iVTeXuRTfhmq5VnKjszao0dwrV6Htbk.jpg)
 
 ## Members & Roles
 
@@ -113,85 +113,85 @@ We’ve used Claude and Gemini to assist code debugging and in the process of cr
 
 *Robot 1 Overall View*
 
-![](images/1h6LnzfX6CvALb0H8dB_E26YcxWvf71fQ.jpg)
+![](images/1br95inhedc3T0LH5EmpC5seIGTQU4iPh.jpg)
 
 ## Robot1 Front
 
 *Robot 1 Front view*
 
-![](images/1eeZYWueMV771-Hp2jLJsy_J_7I8Or5Wa.jpg)
+![](images/1hzEb6AA0eet5FflzFqQEWYEjU6ZexC-U.jpg)
 
 ## Robot1 Back
 
 *Robot 1 Back view*
 
-![](images/1wUt4qSS2L-ArZxI4m39jyxyK-CuarNe3.jpg)
+![](images/1GV8Wb-qBVAAdslvLC1Gh2OO1JmNDDPco.jpg)
 
 ## Robot1 Top
 
 *Robot 1 Top View*
 
-![](images/16ZF7mJpXr4C8DLQzPIQzDLvyyQJJF388.jpg)
+![](images/1TOepxjlLgkix_ShDewlmw5u3GkZppYXH.jpg)
 
 ## Robot1 Bottom
 
 *Robot 1 Bottom View*
 
-![](images/1Vqv0IP3jYkDrv0jYb22OC-4q-B1NttXu.jpg)
+![](images/12FDqdS4_XXhfqpDqIFNadT2LCdTCysa0.jpg)
 
 ## Robot1 Right
 
 *Robot 1 Right View*
 
-![](images/1xI30Gc19_oU5hGKAFM3qMdE_QxmEbEsN.jpg)
+![](images/1QVubwwm7QJ8Lgl75XojiqtKxTHwoCSpr.jpg)
 
 ## Robot1 Left
 
 *Robot 1 Left View*
 
-![](images/1ANlFPIfPAuWoJ6EqNqBR96cIuC7oreax.jpg)
+![](images/1JUaMplQRHqyy0kNAbTwHO070HBC7wiVP.jpg)
 
 ## Robot2 Overall
 
 *Robot 2 Overall View*
 
-![](images/18YBAajZkedt6duGuFs5nf4_31z3THejZ.jpg)
+![](images/1yI34gly796A_McAdX321vcU0wn1-izHq.jpg)
 
 ## Robot2 Front
 
 *Robot 2 Front view*
 
-![](images/1WXiYjdha7uA8nGBCS_UBK9ciXkN4cqYV.jpg)
+![](images/1AbsrdV4tyzx9_iFV2Vhfdd0YyiY5jzlU.jpg)
 
 ## Robot2 Back
 
 *Robot 2 Back view*
 
-![](images/1ccyPG-gxwij7ya7PWbgtYNpbgQFYnMuN.jpg)
+![](images/1hOstBEXdS81xNVd6uyXUBE5y3yg8hhWc.jpg)
 
 ## Robot2 Top
 
 *Robot 2 Top View*
 
-![](images/1W47cdafjUbVwbCEvZTCrkIV7cFu27FfP.jpg)
+![](images/1ayjDnQlgDlK5fSV_u1QCW9hPdMwvknCR.jpg)
 
 ## Robot2 Bottom
 
 *Robot 2 Bottom View*
 
-![](images/1HdGiYjL54AbdzX5HaZiB55R7uoM3Wm5L.jpg)
+![](images/1BVxE4OqdZ97dF_lr0VySs-fcI9t3wKtQ.jpg)
 
 ## Robot2 Right
 
 *Robot 2 Right View*
 
-![](images/19Bz967RTM9d7PVmBa-6wkBEG18We3oYZ.jpg)
+![](images/1xckF6lvsvoa6MDwRiYhja1xwZPHtIlIL.jpg)
 
 ## Robot2 Left
 
 *Robot 2 Left View*
 
-![](images/10MgDO4jfjaz32O1gXER5h-ge-5mv6Ikk.jpg)
+![](images/1EBlXzLwbwOe8l3_X4SCoa2j8yMg4lINO.jpg)
 
 ## Mechanical Design
 
@@ -239,14 +239,14 @@ The mechanical part we are most proud of is the IR PCB Support. This new support
 
 *Photos of your mechanical designs highlights*
 
-![](images/1_7cI4qaw79IMdNo8mmHo5ifTyALYOYLP.jpg)
-![](images/1ebJVJyGAyMQzeIESL1-mFU4TRaSP6A15.jpg)
+![](images/1R9d0X__-2H83nJfgAWY6lnAa8A2mv1XK.jpg)
+![](images/1Z-BWsufKtGHeJjzjOiVMgKrusawhEjb1.jpg)
 
 ## Electronics Block Diagram
 
 *Provide us with a block diagram of your robot's electronics*
 
-![](images/1S7j1Gb67y3Qynme8a2MnGMjpLhg-FMVn.png)
+![](images/1JjIw8iJGNSSwhMGXt2J-TDF7Fu7TlYBs.png)
 
 ## Power Circuit
 
@@ -306,19 +306,19 @@ N/A
 
 *Schematics of your robot*
 
-![](images/1lWGJS2CaiNuYkyPinyTI8ScRxjx_dchc.png)
-![](images/1mznPbRI254uO05DjBwlqQjG8mM6jLvJ9.png)
-![](images/1YMiEPzWHcNCoSlTyJowAzH6XZxa5rAWr.png)
-![](images/1n0aRrLwO7_1yGYHn36U7-yf5b3aAV88L.png)
-![](images/1lilQu3o42FLxTsMHtUOZmYJ9U9CaXg6f.png)
+![](images/1r6cMjnToCFerXxBEDQW8P00hVtXYNdGB.png)
+![](images/1UXs9fsAkz48qM62MGxw3sTSN73CG-SKo.png)
+![](images/1b3J_8TNEZg2fiZ-gcq4U_Gj7lZYCKL3j.png)
+![](images/1I8MMmGgQEAhN2aB_tHGQ6UcVDwyNLCtB.png)
+![](images/12Y-qwtxAZAkOMbcR1tZls3HoBuL3lDOh.png)
 
 ## PCB
 
 *PCB of your robot*
 
-![](images/1lM1H2imMLFM3DT1hbG5kkaYOnZlZplQU.jpg)
-![](images/1a4SkaQJJC2J3o8Z9CoAImdBSd3KRthr4.jpg)
-![](images/1jljmay9hRfYMl3aJqb5AtIqN8XIw_ZCY.jpg)
+![](images/1RH7NHnrWfK0NAXXeCtBP-1rTlXr505oG.jpg)
+![](images/1R9Oq7uYGab3v0F_pDioUd_zxJM_Eie32.jpg)
+![](images/1rTkteE-Omf8aAnyiWBc856jqaxOVTRrr.jpg)
 
 ## Electronics Innovation
 
@@ -330,9 +330,9 @@ The part that we are most proud of is definitely our Infrared PCB. We have been 
 
 *Photo of your circuit boards highlights*
 
-![](images/1iKT6Afq8WJrligP4LEOzo1AQ5kJPluQr.jpg)
-![](images/1zI9NSuycXMfeu_KvzCUkGIaofC-WALz8.jpg)
-![](images/1500vtwi64wQ7qTbfG_O63EIb2B34bypS.jpg)
+![](images/1XljES01GuH7WHS5x6mWp5UTXQyvLWVxi.jpg)
+![](images/1I72hjk9j0nKqYLbwxrsta1UuZZXgl-Bj.jpg)
+![](images/1QHrZTRajpt46HOljOnOh0IrWrzoHRQhu.jpg)
 
 ## Ball Detection Method
 
@@ -396,7 +396,7 @@ https://github.com/OBRSesi144/Programa-es-Regional_Itu_2026
 
 *Bill of Materials (BOM)*
 
-[https://drive.google.com/open?id=1e3Va9anadQGxWQ81rD2lv0N9gc-sT1z-](https://drive.google.com/open?id=1e3Va9anadQGxWQ81rD2lv0N9gc-sT1z-)
+[https://drive.google.com/open?id=1CNMiACV5_1KujLuQWemMVWmeClfPpFgM](https://drive.google.com/open?id=1CNMiACV5_1KujLuQWemMVWmeClfPpFgM)
 
 ## Cost
 

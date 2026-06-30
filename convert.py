@@ -9,7 +9,7 @@ import fcntl
 import time
 from multiprocessing import Pool, cpu_count
 
-from PIL import Image
+from PIL import Image, ImageOps
 from io import BytesIO
 
 # Add HEIF format support
@@ -179,9 +179,16 @@ def download_and_convert_drive_image(file_id, force_jpeg=False):
                 resp = requests.get(url, stream=True, timeout=30)
                 resp.raise_for_status()
                 img = Image.open(BytesIO(resp.content))
-                
-                # Detect original image format
+
+                # Detect original image format (capture before exif_transpose,
+                # which returns a new image whose .format is None).
                 original_format = img.format
+
+                # Auto-correct orientation using the EXIF Orientation tag, then
+                # drop the tag. Phone cameras store pixels in sensor orientation
+                # and rely on this tag for display; since we re-encode without
+                # EXIF, we must physically rotate the pixels upright here.
+                img = ImageOps.exif_transpose(img)
                 
                 # Force JPEG conversion for team photos and robot photos
                 if force_jpeg:
