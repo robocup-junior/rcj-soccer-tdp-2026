@@ -1,4 +1,4 @@
-# RoboCupJunior Soccer 2026 TDP Showcase
+# RoboCupJunior Soccer 2026 Media Showcase
 Listing Team Description Papers (TDPs) submitted by RoboCupJunior Soccer teams for the 2026 International Competition.
 
 Teams are grouped by league. Award-winning teams are listed first (Individual 1st → 2nd → 3rd, then Superteam, then Community Award, then Technical Challenge); the remaining teams follow in alphabetical order. Each entry also links the team's Poster and Video where submitted.
