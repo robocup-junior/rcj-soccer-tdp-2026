@@ -55,3 +55,7 @@ Teams are grouped by league. Award-winning teams are listed first (Individual 1s
 
 ## Need a fix?
 Please open a Pull Request, or raise an issue on the Issues tab.
+
+---
+
+\* *Strong Kick*, *King of the Hill*, and *Precise Kicker* are the awards of the Technical Challenge.
