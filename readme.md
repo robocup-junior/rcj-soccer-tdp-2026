@@ -23,7 +23,6 @@ Teams are grouped by league. Award-winning teams are listed first (Individual 1s
 - Roboticus — [TDP](md_out/Roboticus.md) · [Poster](https://drive.google.com/open?id=1zI2G7CmNqoqTGiP1pY8EgnWwLvp2AdOA) · [Video](https://drive.google.com/open?id=1SyoPywKz2mHsA0N23N8bskWolg-l2fAo)
 - SESI Robotics School — [TDP](md_out/SESI%20Robotics%20School.md) · [Poster](https://drive.google.com/open?id=1A7y_htcENqbD-PRhXD3rJw6RTcBZLW3K) · [Video](https://drive.google.com/open?id=1RmXJzd9HFUFCbTJnoAopQb8FOfgyIQpS)
 - Team fix — [TDP](md_out/Team%20fix.md) · [Poster](https://drive.google.com/open?id=1dtH8CvvW0mgBzPzsajd9DjRS3eqDjPLf) · [Video](https://drive.google.com/open?id=1YpTLhqKyDqZZaymZn2SehwNHJy0KVVIl)
-- Team goggles — [TDP](md_out/Team%20goggles.md) · [Poster](https://drive.google.com/open?id=1YbFyPy2aXNPVctLF92w0FYfolN6uapA3) · [Video](https://drive.google.com/open?id=1MA1rBK0xSQ-Sa_4guxwmflm9J_8iEAgF)
 - Team Mathimazierer — [Poster](https://drive.google.com/open?id=1kdLmIxnJO4arB2764qav-c-S6eEuNuDw) · [Video](https://drive.google.com/open?id=1mNCbFtqisjNKYwQM_4vRQbUgRtXqGRwY) · [Instagram](https://www.instagram.com/mathimazierer)
 - TSC FootBot — [TDP](md_out/TSC%20FootBot.md) · [Poster](https://drive.google.com/open?id=19VoorFpm4m3MkSf4BKphQWw06oNMWNvb) · [Video](https://drive.google.com/open?id=1vRtUQOoX0RPgF9QBh2qgKb2SAneVWq8E) · [Instagram](https://www.instagram.com/tscfootbot/)
 - VVS Ballers — [TDP](md_out/VVS%20Ballers.md) · [Poster](https://drive.google.com/open?id=1cyhEsrxWXwd5AYK9o4t94eVE5tPab0Pd) · [Video](https://drive.google.com/open?id=1KwJue71v7GOdx8i-4N8d22Rq2jsOF-xp) · [Instagram](https://www.instagram.com/vvs_ballers)
@@ -52,6 +51,7 @@ Teams are grouped by league. Award-winning teams are listed first (Individual 1s
 - Sadr United — [TDP](md_out/Sadr%20United.md) · [Poster](https://drive.google.com/open?id=1JFHyTHIx8a-Hm0aE-f6Xoeu7KuMz3SxU) · [Video](https://drive.google.com/open?id=1zPtn1Fo4iZxnQS4BmTwcKmIvwM-6FYx7)
 - TPA Thailand Soccer — [TDP](md_out/TPA%20Thailand%20Soccer.md) · [Poster](https://drive.google.com/open?id=1tYMivXbzZa_FVASSHOqQJuI27vCuZ3iu) · [Video](https://drive.google.com/open?id=11XPDmnL8GugL3AISqzKs936q-ZG5GP-v)
 - TS — [TDP](md_out/TS.md) · [Poster](https://drive.google.com/open?id=1Y89FwmV8zKcEe3PBwWARAyRhYCsjmZ6U) · [Video](https://drive.google.com/open?id=1pSMpek-Jr0K7u4xnNiIpqGkXn_6wa19f)
+- Team goggles — [TDP](md_out/Team%20goggles.md) · [Poster](https://drive.google.com/open?id=1YbFyPy2aXNPVctLF92w0FYfolN6uapA3) · [Video](https://drive.google.com/open?id=1MA1rBK0xSQ-Sa_4guxwmflm9J_8iEAgF)
 
 ## Need a fix?
 Please open a Pull Request, or raise an issue on the Issues tab.
